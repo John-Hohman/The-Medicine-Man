@@ -5,6 +5,9 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Program Files/Epic Games/UE_5.4/Engine/Plugins/FX/Niagara/Content/DefaultAssets/DefaultSpriteMaterial.uasset",
+				"C:/Program Files/Epic Games/UE_5.4/Engine/Content/EditorMeshes/ColorCalibrator/M_ClearCoatBlack.uasset",
+				"C:/Users/catou/GitHub/The-Medicine-Man/TheMedicineMan/Content/Blueprints/Zombie_AI.uasset",
 				"C:/The Medicine Man/Content/VehicleVarietyVol2/Blueprints/BoxTruck/BP_BoxTruck_Chaos.uasset",
 				"C:/The Medicine Man/Content/Untitled_HLOD0_Instancing.uasset",
 				"C:/The Medicine Man/Content/__ExternalActors__/Untitled/C/VR/0LAVFHBFPQHWQIE58DO5WF.uasset",
@@ -197,8 +200,6 @@
 				"C:/The Medicine Man/Content/Music/Music_4.uasset",
 				"C:/The Medicine Man/Content/SoulCity/Effects/Particles/Water/P_RainRunOff.uasset",
 				"C:/The Medicine Man/Content/Particles/NS_Rain.uasset",
-				"C:/Program Files/Epic Games/UE_5.4/Engine/Plugins/FX/Niagara/Content/DefaultAssets/DefaultSpriteMaterial.uasset",
-				"C:/Program Files/Epic Games/UE_5.4/Engine/Content/EditorMeshes/ColorCalibrator/M_ClearCoatBlack.uasset",
 				"C:/The Medicine Man/Content/Particles/NS_SkidMarks.uasset",
 				"C:/The Medicine Man/Content/Materials/M_Skidmark.uasset",
 				"C:/The Medicine Man/Content/Materials/Skidmark.uasset",
