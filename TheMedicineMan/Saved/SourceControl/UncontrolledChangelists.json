@@ -5,6 +5,11 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"E:/Github/The-Medicine-Man/TheMedicineMan/Content/Widgets/MenuWidgets/MainMenu/W_MainMenu.uasset",
+				"E:/Github/The-Medicine-Man/TheMedicineMan/Content/Widgets/MenuWidgets/Pause/W_PauseMenu.uasset",
+				"E:/Github/The-Medicine-Man/TheMedicineMan/Content/GameOver.umap",
+				"E:/Github/The-Medicine-Man/TheMedicineMan/Content/Widgets/MenuWidgets/Results/W_ResultsMenu.uasset",
+				"E:/Github/The-Medicine-Man/TheMedicineMan/Content/Widgets/MenuWidgets/GameOver/W_GameOver.uasset",
 				"C:/Program Files/Epic Games/UE_5.4/Engine/Plugins/FX/Niagara/Content/DefaultAssets/DefaultSpriteMaterial.uasset",
 				"C:/Program Files/Epic Games/UE_5.4/Engine/Content/EditorMeshes/ColorCalibrator/M_ClearCoatBlack.uasset",
 				"C:/TheMedicineMan/Content/VehicleVarietyVol2/Blueprints/BoxTruck/BP_BoxTruck_Chaos.uasset",
