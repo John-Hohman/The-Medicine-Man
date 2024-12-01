@@ -1,0 +1,10 @@
+{
+	"SourceFiles": [
+		"C:\\Github\\TheMedicineMan\\The-Medicine-Man\\TheMedicineMan\\Intermediate\\Source\\TheMedicineMan.Build.cs",
+		"C:\\Github\\TheMedicineMan\\The-Medicine-Man\\TheMedicineMan\\Intermediate\\Source\\TheMedicineMan.Target.cs",
+		"C:\\Github\\TheMedicineMan\\The-Medicine-Man\\TheMedicineMan\\Intermediate\\Source\\TheMedicineManClient.Target.cs",
+		"C:\\Github\\TheMedicineMan\\The-Medicine-Man\\TheMedicineMan\\Intermediate\\Source\\TheMedicineManEditor.Target.cs",
+		"C:\\Github\\TheMedicineMan\\The-Medicine-Man\\TheMedicineMan\\Intermediate\\Source\\TheMedicineManServer.Target.cs"
+	],
+	"EngineVersion": "5.4.3"
+}
